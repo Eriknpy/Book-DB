@@ -4,6 +4,11 @@
 <a href="https://github.com/Eriknpy/Book-DB/issues">Report Bug</a>
     ·
     <a href="https://github.com/Eriknpy/Book-DB/issues">Request Feature</a></h4>
+    
+## Prerequisites
+
+- [SQL Server Management Studio (SSMS)](https://aka.ms/ssmsfullsetup)
+- [.NET 7.0 SDK (v7.0.200) - Windows x64](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/sdk-7.0.200-windows-x64-installer)
 
 ## Installation
 
@@ -31,8 +36,3 @@ dotnet build
 ```powershell
 dotnet run
 ```
-
-## Prerequisites
-
-- [SQL Server Management Studio (SSMS)](https://aka.ms/ssmsfullsetup)
-- [.NET 7.0 SDK (v7.0.200) - Windows x64](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/sdk-7.0.200-windows-x64-installer)
